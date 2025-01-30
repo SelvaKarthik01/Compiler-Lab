@@ -1,0 +1,67 @@
+#include<stdio.h> - preprocessor directive
+White Space
+int-keyword
+White Space
+main-keyword
+( - separator
+) - separator
+White Space
+{ - block begins
+White Space
+White Space
+White Space
+int-keyword
+White Space
+fact - Identifier
+= - Assignment Operator
+1 - digit
+, - separator
+n - Identifier
+= - Assignment Operator
+5 - digit
+; - separator
+White Space
+White Space
+for-keyword
+( - separator
+int-keyword
+White Space
+i - Identifier
+= - Assignment Operator
+1 - digit
+; - separator
+i - Identifier
+<= - Relational Operator
+n - Identifier
+; - separator
+i - Identifier
+++ - unary operator
+) - separator
+White Space
+White Space
+{ - block begins
+White Space
+White Space
+White Space
+fact - Identifier
+= - Assignment Operator
+fact - Identifier
+* - Arithmetic Operator
+i - Identifier
+; - separator
+White Space
+White Space
+} - block exits
+White Space
+White Space
+printf-keyword
+( - separator
+"Factorial of 5 = %d" - String
+, - separator
+fact - Identifier
+) - separator
+; - separator
+White Space
+} - block exits
+White Spaceguest-ocu6ob@admin123-VirtualBox:~$ 
+
